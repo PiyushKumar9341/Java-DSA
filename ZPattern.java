@@ -5,7 +5,7 @@ public class ZPattern {
 
         
         for (int i = 0; i < size; i++) {
-            // Inner loop for columns
+            // Inner loop columns
             for (int j = 0; j < size; j++) {
                 
                 
