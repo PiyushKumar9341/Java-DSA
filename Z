@@ -8,7 +8,7 @@ public class ZPattern {
             // Inner loop for columns
             for (int j = 0; j < size; j++) {
                 
-                // Condition for the Top and Bottom horizontal bars
+                // Condition for the Top and Bottom horizontal 
                 // i == 0 is the top row
                 // i == size - 1 is the bottom row
                 if (i == 0 || i == size - 1) {
