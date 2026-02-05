@@ -1,4 +1,3 @@
-import java.util.*;
 
 public class Main
 {
@@ -13,8 +12,8 @@ public class Main
         }
         else 
         {
-            System.out.println(x + "is a odd number.");
+            System.out.println(x + "is a odd number...");
         }
-        System.out.println("Hard work is betten then smart work");
+        System.out.println("Hard work is Betten then smart work...");
     }
 }
