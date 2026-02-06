@@ -4,7 +4,7 @@ class Solution {
     
     public int mean(int[] arr) {
         int n = arr.length;
-        long sum = 0; // Use long to prevent overflow during
+        long sum = 0; //Use long to prevent overflow during
         
         for (int num : arr) {
             sum += num;
