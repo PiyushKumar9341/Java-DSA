@@ -26,7 +26,7 @@ class Solution {
             return arr[n / 2];
         } else {
             // Case 2: Even number of elements
-            // Median is floor average of elements at indices (n/2)-1 and n/2
+            // Median is floor average ofelements at indices (n/2)-1 and n/2
             int mid1 = arr[(n / 2) - 1];
             int mid2 = arr[n / 2];
             return (mid1 + mid2) / 2;
